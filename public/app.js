@@ -20,7 +20,7 @@ function getAdvice() {
     }).then(adviceData => {
         const Adviceobj = adviceData.slip;
         resDiv.innerHTML = `<h1><q>${Adviceobj.advice}</h1>`;
-        advNumbDiv.innerHTML = `<p>ADVICE # ${Adviceobj.id}</p>`
+        advNumbDiv.innerHTML = `<p>ADVICE # ${Adviceobj.id}</p>`;
     }).catch(error => {
         console.log(error);
     });
