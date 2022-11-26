@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/davidicabello/advice-generator-app-main)
+- Solution URL: [Solution URL here](https://github.com/davidicabello/advice-generator-app-main)
 - Live Site URL: [Live site URL here](https://apiadviceapp.web.app/)
 
 ### Built with
